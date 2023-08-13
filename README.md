@@ -15,5 +15,6 @@ AWS Glue is used to scan the S3 bucket, create a schema, and a table. Athena is 
 ## Step 4 - PowerBI
 The PowerBI visualizations outline pickup locations, passenger counts, average trip distances, tip amount of day, and payment types. 
 
+## Step 5 - Dashboard
 ![image](https://github.com/umergh7/NYC-Taxi-Cab-End-to-End-Pipeline/assets/117035545/e816fedc-fc62-4bf5-bc52-69782b363fb3)
 
